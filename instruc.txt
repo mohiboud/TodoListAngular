@@ -1,0 +1,7 @@
+git clone https://github.com/mohiboud/TodoListAngular.git
+git remote add https://github.com/mohiboud/TodoListAngular.git
+git init 
+
+
+git add .
+git commit -m "msg"
